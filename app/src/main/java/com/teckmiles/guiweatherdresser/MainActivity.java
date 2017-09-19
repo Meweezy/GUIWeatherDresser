@@ -227,6 +227,7 @@ public class MainActivity extends AppCompatActivity {
 
                 e.printStackTrace();
 
+
             }
 //            Log.i("rsponse code", String.valueOf(HttpURLConnection.HTTP_NOT_FOUND));
 
